@@ -24,8 +24,8 @@
 ---
 
 ### 📈 GitHub Stats  
-![Smit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smitdudhat&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smitdudhat&layout=compact&theme=radical)  
+![Smit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smit9313&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smit9313&layout=compact&theme=radical)  
 
 ---
 
