@@ -14,14 +14,13 @@
 
 ### 🛠️ Tech Stack  
 - **Languages:** JavaScript (ES6+), TypeScript, Python  
-- **Frontend:** React, React Native, Redux, NativeBase  
+- **Frontend:** React, Next.js, React Native, Redux, NativeBase  
 - **Backend:** Node.js, Express.js, MongoDB  
 - **Tools:** Git, Postman, Docker, Figma, Ant Design  
 
 ---
 
-### 📈 GitHub Stats  
-![Smit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smit9313&show_icons=true&theme=radical)  
+### 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smit9313&layout=compact&theme=radical)  
 
 ---
