@@ -1,6 +1,6 @@
 # Hi there, I'm Smit Dudhat! 👋
 
-🚀 Software Engineer | Aspiring Tech Entrepreneur | Big Dreamer  
+🚀 Software Engineer
 
 ---
 
@@ -21,8 +21,8 @@
 ---
 
 ### 📈 GitHub Stats  
-![Smit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smit9313&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smit9313&layout=compact&theme=radical)  
+![Smit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smit9313&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smit9313&layout=compact&theme=radical)  
 
 ---
 
